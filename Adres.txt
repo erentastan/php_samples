@@ -1,0 +1,2 @@
+Local address: http://localhost:8081/test/merhaba.php
+file:///D:/9_DATABASES/Databases/MY_SQL/MySQL.Veritabani.ve.PHP.Temelleri.Egitim.Seti/index.htm
